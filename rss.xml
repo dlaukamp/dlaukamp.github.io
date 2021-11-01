@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 01 Nov 2021 10:57:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Trying out the joplin pages publisher plugin]]></title>
+            <guid>ac83c0cdd75e41fb973818d141c639d1</guid>
+            <pubDate>Mon, 01 Nov 2021 10:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="first-blog-article">First blog article</h2>
+<p>What’s a good topic for the first article in a blog? In my case, the technical system used for setting up this blog feels like a natural choice. Starting a blog, like many projects, comes with an initial inertia one needs to overcome, especially if you do not intend on using some ready-made 3rd party offer.</p>
+<p>As I am already using Joplin to manage my todos and organize my thoughts on whatever topic I am dealing with, this <a title="https://github.com/ylc395/joplin-plugin-pages-publisher" href="https://github.com/ylc395/joplin-plugin-pages-publisher">plugin</a> hits a lot of points that are attrative to me in a blog management system:</p>
+<ul>
+<li>uses markdown to write the actual articles</li>
+<li>uses a git repository for version control</li>
+<li>comes with a simple default template…</li>
+<li>…which can easily be extended (just some <a title="https://ejs.co/" href="https://ejs.co/">EJS</a> templates)</li>
+<li>simple deployment workflow</li>
+</ul>
+<p>Which together with me already using Joplin pretty much reduces the effort to get started to about five minutes of configuration and then, naturally, the time need to write an article. Pretty much ideal for my situation.</p>
+<h3 id="outlook">Outlook</h3>
+<p>I will have to see if this is enough to keep me using this or if it is just a one-off attempt. If I keep using this, I will probably play around and customize the default template a bit. If this really grabs my attention, I might actually extend the plugin to add support to use <a title="https://srht.site/" href="https://srht.site/">sourcehut</a> as a backend, which I would prefer over github in the long term.</p>
+<p>This should be enough text for a first article.</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
